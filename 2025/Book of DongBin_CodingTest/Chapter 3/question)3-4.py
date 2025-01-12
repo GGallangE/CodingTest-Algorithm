@@ -10,7 +10,3 @@ for i in coin:
     join += i
         
 print(join)
-            
-            
-            
-        
